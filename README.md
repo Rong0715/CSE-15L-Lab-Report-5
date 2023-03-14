@@ -95,3 +95,11 @@ class Handler implements URLHandler {
     }
 }
 ```
+With this code, we can connect to the same server port and chat with our friends! Except I don't have any friends so I tested the code all by myself :( 
+```
+Rong: Hello (2023/03/13 17:43:48)
+Chandler: Hi, can I BE more bored writing this lab report? (2023/03/13 17:44:36)
+Joey: How you doin'? (2023/03/13 17:44:58)
+```
+### Conclusion
+Cool stuff. If you like this lab report, smash the full score button and don't forget to subscribe to my Github account for more lab reports. 
